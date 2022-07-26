@@ -6,3 +6,5 @@
 - Arduino Uno
 - Potentiometer
 - Ultra Sonic Sensor
+
+# [Documentation](https://github.com/adithya-s-k/Trigometer/blob/master/Documentation.md)

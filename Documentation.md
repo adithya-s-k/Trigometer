@@ -19,3 +19,10 @@ Was successfully able to print the angle of each axis on the serial monitor.
 \
 [Code used to see potentiometer readings](https://github.com/adithya-s-k/Trigometer/blob/master/Archives/MPU6050_read_value/angle_measure_MPU6050/angle_measure_MPU6050.ino)
 
+## 26/7/2022
+Aim - to integrate the ultrasonic sensor to measure the distance
+
+\
+[Video I referred to ](https://youtu.be/Tmn0KFPmrw0)
+\
+[Code used to see potentiometer readings]()
